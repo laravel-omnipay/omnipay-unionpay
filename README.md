@@ -1,8 +1,8 @@
 # Omnipay: UnionPay
 
-[![Build Status](https://travis-ci.org/lokielse/omnipay-unionpay.png?branch=master)](https://travis-ci.org/lokielse/omnipay-unionpay)
-[![Latest Stable Version](https://poser.pugx.org/lokielse/omnipay-unionpay/version.png)](https://packagist.org/packages/lokielse/omnipay-unionpay)
-[![Total Downloads](https://poser.pugx.org/lokielse/omnipay-unionpay/d/total.png)](https://packagist.org/packages/lokielse/omnipay-unionpay)
+[![Build Status](https://travis-ci.org/laravel-omnipay/omnipay-unionpay.png?branch=master)](https://travis-ci.org/lokielse/omnipay-unionpay)
+[![Latest Stable Version](https://poser.pugx.org/laravel-omnipay/omnipay-unionpay/version.png)](https://packagist.org/packages/laravel-omnipay/omnipay-unionpay)
+[![Total Downloads](https://poser.pugx.org/laravel-omnipay/omnipay-unionpay/d/total.png)](https://packagist.org/packages/laravel-omnipay/omnipay-unionpay)
 
 **UnionPay driver for the Omnipay PHP payment processing library**
 
@@ -18,7 +18,7 @@ to your `composer.json` file:
 ```json
 {
     "require": {
-        "lokielse/omnipay-unionpay": "^0.4"
+        "laravel-omnipay/omnipay-unionpay": "^3.0"
     }
 }
 ```
