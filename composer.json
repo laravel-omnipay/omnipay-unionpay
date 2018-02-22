@@ -16,12 +16,12 @@
     "无跳转支付",
     "laravel"
   ],
-  "homepage": "https://github.com/lokielse/omnipay-unionpay",
+  "homepage": "https://github.com/laravel-omnipay/omnipay-unionpay",
   "license": "MIT",
   "authors": [
     {
       "name": "Loki Else",
-      "email": "lokielse@gmail.com"
+      "email": "laravel-omnipay@gmail.com"
     }
   ],
   "autoload": {
