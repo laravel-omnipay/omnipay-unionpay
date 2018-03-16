@@ -33,6 +33,11 @@
     "php-http/guzzle6-adapter": "^1.1",
     "omnipay/common": "~3.0"
   },
+  "extra": {
+        "branch-alias": {
+            "dev-master": "3.0-dev"
+        }
+    },
   "require-dev": {
     "omnipay/tests": "~3.0"
   }
